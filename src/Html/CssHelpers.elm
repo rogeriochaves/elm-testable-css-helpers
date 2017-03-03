@@ -8,8 +8,8 @@ module Html.CssHelpers exposing (withNamespace, style, stylesheetLink, Namespace
 -}
 
 import Css.Helpers exposing (toCssIdentifier, identifierToString)
-import Html exposing (Attribute, Html)
-import Html.Attributes as Attr
+import Testable.Html as Html exposing (Attribute, Html)
+import Testable.Html.Attributes as Attr
 import String
 import Tuple
 import Json.Encode exposing (string)

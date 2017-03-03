@@ -1,2 +1,3 @@
-# elm-css-helpers
-Helpers for using elm-css with elm-html
+# elm-testable-css-helpers
+
+This wraps elm-css-helpers to be compatible with elm-testable
